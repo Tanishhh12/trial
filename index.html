@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cc heading</title>
+
+</head>
+<body>
+    <h1>form</h1>
+    <label for="">enter ur name</label>
+    <input type="text">
+    <label for="">roll</label>
+    <input type="text">
+
+
+</body>
+</html>
